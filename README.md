@@ -4,7 +4,7 @@
 **Nama : Niswatul 'Azimah**
 **NPM  : 2408107010003**
 
-LINK VIDEO : 
+LINK VIDEO : https://drive.google.com/file/d/1mLZ6baKSgC7pXajZJKdkHuZluD1LumJe/view?usp=sharing
 
 Anonymous Message Web adalah aplikasi berbasis Laravel yang memungkinkan pengguna mengirim pesan atau surat secara anonim melalui konsep mading digital interaktif. Pengguna dapat menulis pesan kepada seseorang tanpa menampilkan identitas pengirim, sehingga komunikasi menjadi lebih bebas, nyaman, dan menarik.
 
